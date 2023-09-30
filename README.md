@@ -7,6 +7,8 @@ A little bit introduction and reminder about SQL
 
 SELECT, FROM, COUNT, UNIQUE, DISTINCT, CASE-WHEN, LIKE, ALIASES, CONCATENATE, ORDER BY, GROUP BY, JOINS, AGGREGATE FUNCTIONS (SUM, AVG, etc.), DATE/TIME, EXTRACT, SUB QUERY (CORRELATED AND UNCORRELATED)
 
+![](./SQLquery.JPG)
+
 Stick close and enjoy and find useful comments in between query lines.
 
 For this project, several tables were used ant the top 10 rows of each tables and their respective column names and attributes are displayed to give a feel of what each query line entails:
