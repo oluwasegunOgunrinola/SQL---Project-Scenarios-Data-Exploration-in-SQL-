@@ -36,4 +36,4 @@ viii.city_table of 600 rows with columns city_id, city, country_id
   
  xi. rental_table of 16044 rows with columns rental_id, rental_date, inventory_id, customer_id, return_date, staff_id    
  
-  # Check out and download the sql and pdf file for detailed report and queries
+  # Check out and download the .sql and .pdf file for detailed report and queries
